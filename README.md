@@ -1,0 +1,2 @@
+# TradingApp
+Trading app beginning
