@@ -1,0 +1,7 @@
+preprocessing:
+  rolling_window_size: 5        # window size for moving averages
+  normalize: true               # whether to normalize prices
+  features:
+    - moving_average
+    - momentum
+    - volatility
